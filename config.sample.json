@@ -5,8 +5,6 @@
   "mappings": [{
     "name": "TEXTLABEL_NAME",
     "label": "TEXTLABEL LABEL",
-    "topic": "SPECIFIC TOPIC FOR THIS TEXTLABEL",
-    "contentPrefix": "Textlabel Content:",
-    "contentPostfix": "..."
+    "topic": "SPECIFIC TOPIC FOR THIS TEXTLABEL"
   }]
 }
