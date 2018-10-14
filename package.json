@@ -1,0 +1,29 @@
+{
+  "name": "neeo-driver-mqtt-textlabels",
+  "version": "0.0.1",
+  "description": "Expose Textlabels for MQTT topics that get automatically updated",
+  "main": "devices/index.js",
+  "scripts": {
+    "start": "node debug.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelKohler/neeo-driver-mqtt-textlabels.git"
+  },
+  "keywords": [
+    "neeo",
+    "textlabels",
+    "mqtt"
+  ],
+  "author": "Michael Kohler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelKohler/neeo-driver-mqtt-textlabels/issues"
+  },
+  "homepage": "https://github.com/MichaelKohler/neeo-driver-mqtt-textlabels#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "neeo-sdk": "^0.51.13"
+  }
+}

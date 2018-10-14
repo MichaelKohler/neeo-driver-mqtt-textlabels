@@ -1,0 +1,11 @@
+{
+  "mqttURL": "tcp://mqtt.example.com",
+  "mqttUsername": "",
+  "mqttPassword": "",
+  "mappins": [{
+    "name": "TEXTLABEL_NAME",
+    "topic": "SPECIFIC TOPIC FOR THIS TEXTLABEL",
+    "labelPrefix": "Textlabel Content:",
+    "labelPostfix": "..."
+  }]
+}
