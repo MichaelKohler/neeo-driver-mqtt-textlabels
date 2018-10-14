@@ -24,6 +24,7 @@
   "homepage": "https://github.com/MichaelKohler/neeo-driver-mqtt-textlabels#readme",
   "dependencies": {
     "debug": "^3.1.0",
+    "mqtt": "^2.18.8",
     "neeo-sdk": "^0.51.13"
   }
 }
